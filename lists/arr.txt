@@ -1,0 +1,22 @@
+# arr
+# группа Keenetic: domain-list36
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+cdn.cookielaw.org
+geolocation.onetrust.com
+iframetest.com
+image.tmdb.org
+lidarr.audio
+media.themoviedb.org
+musicbrainz.org
+plexopedia.com
+prowlarr.com
+radarr.video
+sentry.sonarr.tv
+servarr.com
+sonarr.tv
+theaudiodb.com
+themoviedb.org
+thetvdb.com
+tmdb.org

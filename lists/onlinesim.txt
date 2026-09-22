@@ -1,0 +1,7 @@
+# onlinesim
+# группа Keenetic: domain-list52
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+onlinesim.io
+onlinesim.me

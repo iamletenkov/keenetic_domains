@@ -1,0 +1,18 @@
+# solyanka
+# группа Keenetic: domain-list44
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+37.202.222.181
+community-scripts.org
+corretto.aws
+dllme.com
+engineerworkshop.com
+gethomepage.dev
+getutm.app
+mac.getutm.app
+modcase.com
+modcase.com.au
+portainer.io
+stackoverflow.com
+ultahost.com

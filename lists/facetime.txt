@@ -1,0 +1,7 @@
+# facetime
+# группа Keenetic: domain-list41
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+acetime-apple-com.we.apple-dns.net
+facetime.apple.com

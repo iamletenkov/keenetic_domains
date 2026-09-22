@@ -1,0 +1,6 @@
+# netify.ai
+# группа Keenetic: domain-list56
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+netify.ai

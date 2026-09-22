@@ -1,0 +1,8 @@
+# tidal
+# группа Keenetic: domain-list30
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+tidal.com
+tidalhifi.com
+wimpmusic.com

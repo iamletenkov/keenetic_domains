@@ -1,0 +1,29 @@
+# claude.ai
+# группа Keenetic: domain-list51
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+a-api.anthropic.com
+a-cdn.anthropic.com
+anthropic.com
+api.cr-relay.com
+api.vector.co
+assets.claude.ai
+cdn.cr-relay.com
+cdn.prod.website-files.com
+cdn.vector.co
+claude.ai
+claude.com
+claudeusercontent.com
+cloudfront.net
+code.claude.com
+googleapis.com
+googletagmanager.com
+gstatic.com
+hubspotonwebflow.com
+intellimize.co
+intercom.io
+platform.claude.com
+segment.com
+sentry.io
+status.claude.com

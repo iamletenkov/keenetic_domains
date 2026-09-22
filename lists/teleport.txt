@@ -1,0 +1,9 @@
+# teleport
+# группа Keenetic: domain-list47
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+cdn.teleport.dev
+cgr.dev
+goteleport.com
+teleport.dev

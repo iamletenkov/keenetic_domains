@@ -1,0 +1,25 @@
+# torrents
+# группа Keenetic: domain-list23
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+ajax.googleapis.com
+appstorrent.ru
+cdnbunny.org
+counter.yadro.ru
+fast-torrent.club
+filmitorrent.net
+myroledance.com
+rutor.info
+rutor.is
+rutor.org
+rutracker.cc
+rutracker.net
+rutracker.org
+rutracker.ru
+rutrk.org
+thepiratebay.org
+torrent.by
+torrentgalaxy.to
+tracker.wf
+vak345.com

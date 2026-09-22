@@ -1,0 +1,12 @@
+# linkedin
+# группа Keenetic: domain-list3
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+bizographics.com
+l-0005.dc-msedge.net
+l-0005.l-msedge.net
+licdn.com
+linkedin.at
+linkedin.com
+lnkd.in

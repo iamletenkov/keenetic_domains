@@ -1,0 +1,19 @@
+# jetbrains
+# группа Keenetic: domain-list17
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+datalore.io
+grazie.ai
+grazie.aws.intellij.net
+intellij.com
+intellij.net
+intellij.org
+jb.gg
+jetbrains.ai
+jetbrains.com
+jetbrains.net
+jetbrains.space
+jetbrains.team
+kotlinlang.org
+youtrack.cloud

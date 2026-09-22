@@ -1,0 +1,9 @@
+# viber
+# группа Keenetic: domain-list8
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+cdn.cookielaw.org
+cdn.mxpnl.com
+geolocation.onetrust.com
+www.viber.com

@@ -1,0 +1,33 @@
+# whatsapp
+# группа Keenetic: domain-list9
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+api.whatsapp.com
+cdn.whatsapp.net
+crashlogs.whatsapp.net
+faq.whatsapp.com
+g-fallback.whatsapp.net
+g.whatsapp.net
+graph.whatsapp.com
+graph.whatsapp.net
+media.cdn.whatsapp.net
+media.whatsapp.net
+mmg.whatsapp.com
+mmg.whatsapp.net
+scontent.whatsapp.net
+snr.whatsapp.net
+static.whatsapp.net
+wa.me
+web.whatsapp.com
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
+whatsapp.com
+whatsapp.info
+whatsapp.net
+whatsapp.org
+whatsapp.tv
+whatsappbrand.com
+wl.co

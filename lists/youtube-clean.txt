@@ -1,0 +1,23 @@
+# "youtube CLEAN"
+# группа Keenetic: domain-list22
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+ggpht.com
+googlevideo.com
+jnn-pa.googleapis.com
+returnyoutubedislikeapi.com
+wide-youtube.l.google.com
+youtu.be
+youtube-nocookie.com
+youtube-ui.l.google.com
+youtube.com
+youtube.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtubei.googleapis.com
+youtubekids.com
+yt-video-upload.l.google.com
+yt.be
+yt3.googleusercontent.com
+ytimg.com
+ytimg.l.google.com

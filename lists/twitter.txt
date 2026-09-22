@@ -1,0 +1,20 @@
+# twitter
+# группа Keenetic: domain-list7
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+ads-twitter.com
+cms-twdigitalassets.com
+periscope.tv
+pscp.tv
+t.co
+tweetdeck.com
+twimg.com
+twitter.com
+twitter.jp
+twittercommunity.com
+twitterflightschool.com
+twitterinc.com
+twitteroauth.com
+twttr.com
+x.com

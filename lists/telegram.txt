@@ -1,0 +1,42 @@
+# telegram
+# группа Keenetic: domain-list5
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+149.154.160.0/22
+149.154.160.0/23
+149.154.162.0/23
+149.154.164.0/22
+149.154.164.0/23
+149.154.166.0/23
+149.154.172.0/22
+185.76.151.0/24
+91.105.192.0/23
+91.108.12.0/22
+91.108.4.0/22
+91.108.56.0/22
+91.108.58.0/23
+91.108.8.0/22
+95.161.64.0/20
+cdn-telegram.org
+comments.app
+contest.com
+fragment.com
+graph.org
+quiz.directory
+t.me
+tdesktop.com
+telega.one
+telegra.ph
+telegram-cdn.org
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telekom.com
+telekom.de
+telesco.pe
+telesec.de
+tg.dev
+tx.me
+usercontent.dev

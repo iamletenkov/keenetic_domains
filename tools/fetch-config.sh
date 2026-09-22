@@ -16,7 +16,8 @@ root_dir=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
 out=${1:-"$root_dir/.local/running-config.txt"}
 mkdir -p "$(dirname -- "$out")"
 
-ssh -p "$PORT" -o BatchMode=yes "$LOGIN@$HOST" "ndmc -c 'show running-config'" \
+# Без BatchMode: если ключ на роутере не принят, ssh спросит пароль.
+ssh -p "$PORT" "$LOGIN@$HOST" "ndmc -c 'show running-config'" \
 	| tr -d '\r' > "$out"
 
 printf 'снято строк: %s -> %s\n' "$(wc -l < "$out")" "$out"

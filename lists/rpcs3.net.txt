@@ -1,0 +1,6 @@
+# rpcs3.net
+# группа Keenetic: domain-list57
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+rpcs3.net

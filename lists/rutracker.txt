@@ -1,0 +1,13 @@
+# rutracker
+# группа Keenetic: domain-list4
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+maintracker.org
+rutracker.cc
+rutracker.cr
+rutracker.me
+rutracker.nl
+rutracker.org
+rutrecker.net
+rutrk.org

@@ -1,0 +1,31 @@
+# chatgpt
+# группа Keenetic: domain-list10
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+api.stripe.com
+auth.openai.com
+browser-intake-datadoghq.com
+cdn.auth0.com
+cdn.oaistatic.com
+chatgpt.com
+context7.com
+cursor.com
+cursor.sh
+errors.stripe.com
+featureassets.org
+files.oaiusercontent.com
+gpt3-openai.com
+js.stripe.com
+m.stripe.com
+m.stripe.network
+merchant-ui-api.stripe.com
+myprepaidcenter.com
+oaistatic.com
+oaiusercontent.com
+openai.com
+platform.openai.com
+prodregistryv2.org
+r.stripe.com
+realtime.chatgpt.com
+stripe.com

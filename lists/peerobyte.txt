@@ -1,0 +1,7 @@
+# peerobyte
+# группа Keenetic: domain-list54
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+149.13.59.249
+awg-peerobyte.smart-glow.ru

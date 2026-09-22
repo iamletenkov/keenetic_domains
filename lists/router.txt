@@ -1,0 +1,9 @@
+# router
+# группа Keenetic: domain-list35
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+codecov.io
+kasm.com
+medium.com
+openwrt.org

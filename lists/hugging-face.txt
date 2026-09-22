@@ -1,0 +1,8 @@
+# hugging-face
+# группа Keenetic: domain-list58
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+hf-mirror.com
+huggingface.co
+us.aws.cdn.hf.co

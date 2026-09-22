@@ -1,0 +1,6 @@
+# anydesk
+# группа Keenetic: domain-list48
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+anydesk.com

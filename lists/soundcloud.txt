@@ -1,0 +1,9 @@
+# soundcloud
+# группа Keenetic: domain-list27
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+qengineering.eu
+sndcdn.com
+soundcloud.cloud
+soundcloud.com

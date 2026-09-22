@@ -1,0 +1,16 @@
+# archero
+# группа Keenetic: domain-list55
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+archero.com
+archero2.com
+gateway.unityads.unity3d.com
+img.applovin.com
+logs.ads.vungle.com
+playarchero2.com
+prod-game.archero2.com
+prod-im.archero2.com
+prod-mail.habbyservice.com
+res1.applovin.com
+sdkopmetrics-eu.dsp-api.moloco.com

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "18+",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/18.txt",
+        "name": "18+"
+      }
+    ]
+  },
+  {
+    "name": "anydesk",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/anydesk.txt",
+        "name": "anydesk"
+      }
+    ]
+  },
+  {
+    "name": "archero",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/archero.txt",
+        "name": "archero"
+      }
+    ]
+  },
+  {
+    "name": "arr",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/arr.txt",
+        "name": "arr"
+      }
+    ]
+  },
+  {
+    "name": "chatgpt",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/chatgpt.txt",
+        "name": "chatgpt"
+      }
+    ]
+  },
+  {
+    "name": "cisco",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cisco.txt",
+        "name": "cisco"
+      }
+    ]
+  },
+  {
+    "name": "claude.ai",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/claude.ai.txt",
+        "name": "claude.ai"
+      }
+    ]
+  },
+  {
+    "name": "cloudflare",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cloudflare.txt",
+        "name": "cloudflare"
+      }
+    ]
+  },
+  {
+    "name": "copilot",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/copilot.txt",
+        "name": "copilot"
+      }
+    ]
+  },
+  {
+    "name": "dell",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/dell.txt",
+        "name": "dell"
+      }
+    ]
+  },
+  {
+    "name": "discord",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/discord.txt",
+        "name": "discord"
+      }
+    ]
+  },
+  {
+    "name": "drawio",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/drawio.txt",
+        "name": "drawio"
+      }
+    ]
+  },
+  {
+    "name": "facetime",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/facetime.txt",
+        "name": "facetime"
+      }
+    ]
+  },
+  {
+    "name": "figma",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/figma.txt",
+        "name": "figma"
+      }
+    ]
+  },
+  {
+    "name": "gemini",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/gemini.txt",
+        "name": "gemini"
+      }
+    ]
+  },
+  {
+    "name": "github",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/github.txt",
+        "name": "github"
+      }
+    ]
+  },
+  {
+    "name": "google_ai",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/google_ai.txt",
+        "name": "google_ai"
+      }
+    ]
+  },
+  {
+    "name": "hugging-face",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/hugging-face.txt",
+        "name": "hugging-face"
+      }
+    ]
+  },
+  {
+    "name": "imdb",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/imdb.txt",
+        "name": "imdb"
+      }
+    ]
+  },
+  {
+    "name": "instagram-1",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/instagram-1.txt",
+        "name": "instagram-1"
+      }
+    ]
+  },
+  {
+    "name": "instagram-2",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/instagram-2.txt",
+        "name": "instagram-2"
+      }
+    ]
+  },
+  {
+    "name": "intel",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/intel.txt",
+        "name": "intel"
+      }
+    ]
+  },
+  {
+    "name": "jetbrains",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/jetbrains.txt",
+        "name": "jetbrains"
+      }
+    ]
+  },
+  {
+    "name": "kimi",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/kimi.txt",
+        "name": "kimi"
+      }
+    ]
+  },
+  {
+    "name": "linkedin",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/linkedin.txt",
+        "name": "linkedin"
+      }
+    ]
+  },
+  {
+    "name": "logo.com",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/logo.com.txt",
+        "name": "logo.com"
+      }
+    ]
+  },
+  {
+    "name": "meta-1",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta-1.txt",
+        "name": "meta-1"
+      }
+    ]
+  },
+  {
+    "name": "meta-2",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta-2.txt",
+        "name": "meta-2"
+      }
+    ]
+  },
+  {
+    "name": "miro",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/miro.txt",
+        "name": "miro"
+      }
+    ]
+  },
+  {
+    "name": "netflix",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/netflix.txt",
+        "name": "netflix"
+      }
+    ]
+  },
+  {
+    "name": "netify.ai",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/netify.ai.txt",
+        "name": "netify.ai"
+      }
+    ]
+  },
+  {
+    "name": "nvidia",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/nvidia.txt",
+        "name": "nvidia"
+      }
+    ]
+  },
+  {
+    "name": "onlinesim",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/onlinesim.txt",
+        "name": "onlinesim"
+      }
+    ]
+  },
+  {
+    "name": "peerobyte",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/peerobyte.txt",
+        "name": "peerobyte"
+      }
+    ]
+  },
+  {
+    "name": "proton",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/proton.txt",
+        "name": "proton"
+      }
+    ]
+  },
+  {
+    "name": "realvnc",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/realvnc.txt",
+        "name": "realvnc"
+      }
+    ]
+  },
+  {
+    "name": "router",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/router.txt",
+        "name": "router"
+      }
+    ]
+  },
+  {
+    "name": "rpcs3.net",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/rpcs3.net.txt",
+        "name": "rpcs3.net"
+      }
+    ]
+  },
+  {
+    "name": "rutracker",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/rutracker.txt",
+        "name": "rutracker"
+      }
+    ]
+  },
+  {
+    "name": "solyanka",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/solyanka.txt",
+        "name": "solyanka"
+      }
+    ]
+  },
+  {
+    "name": "soundcloud",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/soundcloud.txt",
+        "name": "soundcloud"
+      }
+    ]
+  },
+  {
+    "name": "spotify",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/spotify.txt",
+        "name": "spotify"
+      }
+    ]
+  },
+  {
+    "name": "telegram",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/telegram.txt",
+        "name": "telegram"
+      }
+    ]
+  },
+  {
+    "name": "teleport",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/teleport.txt",
+        "name": "teleport"
+      }
+    ]
+  },
+  {
+    "name": "tidal",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/tidal.txt",
+        "name": "tidal"
+      }
+    ]
+  },
+  {
+    "name": "tiktok-1",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/tiktok-1.txt",
+        "name": "tiktok-1"
+      }
+    ]
+  },
+  {
+    "name": "torrents",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/torrents.txt",
+        "name": "torrents"
+      }
+    ]
+  },
+  {
+    "name": "twitch",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/twitch.txt",
+        "name": "twitch"
+      }
+    ]
+  },
+  {
+    "name": "twitter",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/twitter.txt",
+        "name": "twitter"
+      }
+    ]
+  },
+  {
+    "name": "uber",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/uber.txt",
+        "name": "uber"
+      }
+    ]
+  },
+  {
+    "name": "viber",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/viber.txt",
+        "name": "viber"
+      }
+    ]
+  },
+  {
+    "name": "whatsapp",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/whatsapp.txt",
+        "name": "whatsapp"
+      }
+    ]
+  },
+  {
+    "name": "\"youtube CLEAN\"",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/youtube-clean.txt",
+        "name": "\"youtube CLEAN\""
+      }
+    ]
+  },
+  {
+    "name": "zfilm-hd",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/zfilm-hd.txt",
+        "name": "zfilm-hd"
+      }
+    ]
+  }
+]

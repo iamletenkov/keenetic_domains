@@ -1,0 +1,56 @@
+# copilot
+# группа Keenetic: domain-list12
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+accounts-api.trimblemaps.com
+api-copilotfleetportal.alk.com
+api.business.githubcopilot.com
+api.github.com
+api.githubcopilot.com
+api.trimblemaps.com
+authws.alk.com
+avoid-favor-image-prod.s3.amazonaws.com
+az416426.vo.msecnd.net
+browser.events.data.microsoft.com
+c1.microsoft.com
+cdn-d1kqq3q260ef0y.alk.com
+cdn-d1r5wsnfoskmmf.alk.com
+cdn-d2ujyiyy8n2k3d.alk.com
+cdn-d2ybnimx4femss.alk.com
+cdn-d3uhvx0v3zn1od.alk.com
+cdn-d3uq4a19tt5rvj.alk.com
+cdn-d7rpukobs9z0.alk.com
+contentsvc.alk.com
+copilot-message-publisher.trimblemaps.com
+copilot-proxy.githubusercontent.com
+copilot.microsoft.com
+copilotgps.com
+copilotlogs-prod.s3.amazonaws.com
+copilotlogs-url-prod.trimblemaps.com
+copilotws.alk.com
+d1kqq3q260ef0y.cloudfront.net
+d1r5wsnfoskmmf.cloudfront.net
+d2np2hrechbrk0.cloudfront.net
+d2ujyiyy8n2k3d.cloudfront.net
+d2ybnimx4femss.cloudfront.net
+d3uhvx0v3zn1od.cloudfront.net
+d3uq4a19tt5rvj.cloudfront.net
+d7rpukobs9z0.cloudfront.net
+dataanywhere.alk.com
+eu-mobile.events.data.microsoft.com
+fleets.alk.com
+i0lzs19lcl.execute-api.us-east-1.amazonaws.com
+in.appcenter.ms
+licensews.alk.com
+mobile-subscription-service.trimblemaps.comapisubscription
+mobiledata.alk.com
+o4508134825000960.ingest.us.sentry.io
+origin-tracker.githubusercontent.com
+sdk.iad-01.braze.com
+shields.io
+singlesearch.alk.com
+storews.alk.com
+studiostaticassetsprod.azureedge.net
+traffic-its-message-service.trimblemaps.com
+tripmanagement.alk.com

@@ -1,0 +1,9 @@
+# proton
+# группа Keenetic: domain-list33
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+account.proton.me
+mail-api.proton.me
+mail.proton.me
+proton.me

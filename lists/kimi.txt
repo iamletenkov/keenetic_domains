@@ -1,0 +1,8 @@
+# kimi
+# группа Keenetic: domain-list50
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+baidu.com
+hm.baidu.com
+kimi.com

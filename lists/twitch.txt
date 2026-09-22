@@ -1,0 +1,12 @@
+# twitch
+# группа Keenetic: domain-list29
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.tv
+twitchcdn.net
+twitchsvc.net

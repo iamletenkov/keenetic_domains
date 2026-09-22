@@ -1,0 +1,9 @@
+# miro
+# группа Keenetic: domain-list21
+# маршрут: Wireguard8
+# выгружено: 2026-09-22
+
+mattermost.com
+miro.com
+mirostatic.com
+static-website.miro.com
