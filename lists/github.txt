@@ -5,3 +5,4 @@
 
 githubusercontent.com
 release-assets.githubusercontent.com
+github.com
