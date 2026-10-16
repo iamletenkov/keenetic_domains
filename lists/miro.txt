@@ -6,4 +6,3 @@
 mattermost.com
 miro.com
 mirostatic.com
-static-website.miro.com

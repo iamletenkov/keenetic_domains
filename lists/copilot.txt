@@ -54,3 +54,4 @@ storews.alk.com
 studiostaticassetsprod.azureedge.net
 traffic-its-message-service.trimblemaps.com
 tripmanagement.alk.com
+visualstudio.com

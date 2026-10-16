@@ -54,7 +54,6 @@ cloudflarewarp.com
 every1dns.net
 isbgpsafeyet.com
 one.one.one
-one.one.one.one
 pacloudflare.com
 pages.dev
 trycloudflare.com

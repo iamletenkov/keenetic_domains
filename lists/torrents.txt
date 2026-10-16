@@ -6,7 +6,6 @@
 ajax.googleapis.com
 appstorrent.ru
 cdnbunny.org
-counter.yadro.ru
 fast-torrent.club
 filmitorrent.net
 myroledance.com

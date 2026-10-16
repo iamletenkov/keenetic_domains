@@ -1,0 +1,7 @@
+# grok-xai
+# группа Keenetic: grok_xai_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+grok.com
+x.ai

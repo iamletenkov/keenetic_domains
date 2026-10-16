@@ -1,0 +1,16 @@
+# slack
+# группа Keenetic: slack_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+slack-core.com
+slack-edge.com
+slack-files.com
+slack-imgs.com
+slack-msgs.com
+slack-redir.net
+slack.com
+slackb.com
+slackcertified.com
+slackdemo.com
+slackhq.com

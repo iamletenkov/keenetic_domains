@@ -1,0 +1,14 @@
+# instagram
+# собран вручную вместо instagram-1, instagram-2, meta-1, meta-2 (Keenetic ловит поддомены сам)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+cdninstagram.com
+facebook.com
+facebook.net
+fbcdn.net
+fbsbx.com
+ig.me
+igcdn.com
+instagram.com
+instagramstatic.com

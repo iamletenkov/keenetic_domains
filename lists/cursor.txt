@@ -1,0 +1,9 @@
+# cursor
+# группа Keenetic: cursor_p1 (Home)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+cursor-cdn.com
+cursorapi.com
+cursorvm.com
+spacex.ai

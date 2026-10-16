@@ -3,6 +3,7 @@
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
 
+104.29.0.0/16
 airhorn.solutions
 airhornbot.com
 bigbeans.solutions

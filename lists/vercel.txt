@@ -1,0 +1,32 @@
+# vercel
+# группа Keenetic: vercel_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+ai-sdk.dev
+err.sh
+hyper.is
+nextjs.org
+now.sh
+skills.sh
+static.fun
+title.sh
+turborepo.org
+vercel-dns.com
+vercel-status.com
+vercel.app
+vercel.blog
+vercel.com
+vercel.dev
+vercel.events
+vercel.live
+vercel.pub
+vercel.sh
+vercel.store
+zeit-world.co.uk
+zeit-world.com
+zeit-world.net
+zeit-world.org
+zeit.co
+zeit.sh
+zeitworld.com

@@ -1,0 +1,8 @@
+# debian
+# группа Keenetic: domain-list49 (Upstroy)
+# маршрут: не назначен
+# выгружено: 2026-10-16
+
+deb.debian.org
+debian.map.fastlydns.net
+security.debian.org

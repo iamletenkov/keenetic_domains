@@ -4,5 +4,8 @@
 # выгружено: 2026-09-22
 
 baidu.com
-hm.baidu.com
 kimi.com
+moonshot.cn
+qq.com
+volccdn.com
+volces.com

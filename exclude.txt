@@ -1,0 +1,19 @@
+# Домены, которые не попадают ни в один список (tools/merge.py их отбрасывает).
+# Один домен в строке; запись снимает и все его поддомены.
+
+# Счётчики и аналитика Яндекса — всегда напрямую, не через туннель.
+counter.yadro.ru
+mc.yandex.ru
+
+# Keenetic сравнивает по окончанию строки: эти короткие записи затягивали
+# в туннель чужие домены (acebook.com -> facebook.com, i.org -> pypi.org,
+# m.me -> telegram.me), а для работы сервисов не нужны.
+acebook.com
+i.org
+m.me
+
+# Сторонние модификации и мусор в списке WhatsApp — к WhatsApp не относятся.
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+wl.co

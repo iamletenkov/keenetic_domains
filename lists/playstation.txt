@@ -1,0 +1,13 @@
+# playstation
+# группа Keenetic: playstation_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+23.3.91.162
+2ip.ru
+online-metrix.net
+playstation
+playstation.com
+playstation.net
+sony.com
+sonyentertainmentnetwork.com

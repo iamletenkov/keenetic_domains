@@ -1,0 +1,17 @@
+# reddit
+# группа Keenetic: reddit_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+redd.it
+reddit.app.link
+reddit.com
+reddit.map.fastly.net
+redditblog.com
+reddithelp.com
+redditinc.com
+redditmail.com
+redditmedia.com
+redditspace.com
+redditstatic.com
+redditstatus.com

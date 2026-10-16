@@ -1,0 +1,13 @@
+# signal
+# группа Keenetic: signal_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+signal.art
+signal.group
+signal.link
+signal.me
+signal.org
+signal.tube
+signalusers.org
+whispersystems.org

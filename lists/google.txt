@@ -1,0 +1,7 @@
+# google
+# группа Keenetic: google_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+googleplay.com
+xn--ngstr-lra8j.com

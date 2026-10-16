@@ -1,0 +1,8 @@
+# zoom
+# группа Keenetic: zoom_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+zoom.com
+zoom.com.cn
+zoom.us

@@ -1,0 +1,23 @@
+# prime-video
+# группа Keenetic: prime_video_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+aiv-cdn.net
+amazonprimevideo.cn
+amazonprimevideo.com.cn
+amazonprimevideos.com
+amazonvideo.cc
+amazonvideo.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+msh.amazon.co.uk
+prime-video.com
+primevideo.cc
+primevideo.com
+primevideo.info
+primevideo.org
+primevideo.tv
+prod.service.minerva.devices.a2z.com
+static.siege-amazon.com

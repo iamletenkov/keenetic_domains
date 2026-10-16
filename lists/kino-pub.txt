@@ -1,0 +1,17 @@
+# kino-pub
+# группа Keenetic: kino_pub_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+ahc.ovh
+cdn-service.space
+cdn2cdn.com
+cdn2site.com
+gfw.ovh
+kino.pub
+kino.watch
+kinopub.online
+kpdl.link
+mos-gorsud.co
+pushbr.com
+smarttvcdn.online

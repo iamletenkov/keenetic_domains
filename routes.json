@@ -10,6 +10,16 @@
     ]
   },
   {
+    "name": "adobe",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/adobe.txt",
+        "name": "adobe"
+      }
+    ]
+  },
+  {
     "name": "anydesk",
     "enabled": true,
     "subscriptions": [
@@ -36,6 +46,26 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/arr.txt",
         "name": "arr"
+      }
+    ]
+  },
+  {
+    "name": "blizzard",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/blizzard.txt",
+        "name": "blizzard"
+      }
+    ]
+  },
+  {
+    "name": "canva",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/canva.txt",
+        "name": "canva"
       }
     ]
   },
@@ -80,12 +110,42 @@
     ]
   },
   {
+    "name": "cloudflare-ips",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cloudflare-ips.txt",
+        "name": "cloudflare-ips"
+      }
+    ]
+  },
+  {
     "name": "copilot",
     "enabled": true,
     "subscriptions": [
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/copilot.txt",
         "name": "copilot"
+      }
+    ]
+  },
+  {
+    "name": "cursor",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cursor.txt",
+        "name": "cursor"
+      }
+    ]
+  },
+  {
+    "name": "debian",
+    "enabled": false,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/debian.txt",
+        "name": "debian"
       }
     ]
   },
@@ -100,6 +160,16 @@
     ]
   },
   {
+    "name": "DEV",
+    "enabled": false,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/dev.txt",
+        "name": "DEV"
+      }
+    ]
+  },
+  {
     "name": "discord",
     "enabled": true,
     "subscriptions": [
@@ -110,12 +180,62 @@
     ]
   },
   {
+    "name": "docker",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/docker.txt",
+        "name": "docker"
+      }
+    ]
+  },
+  {
     "name": "drawio",
     "enabled": true,
     "subscriptions": [
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/drawio.txt",
         "name": "drawio"
+      }
+    ]
+  },
+  {
+    "name": "duckduckgo",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/duckduckgo.txt",
+        "name": "duckduckgo"
+      }
+    ]
+  },
+  {
+    "name": "ea",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/ea.txt",
+        "name": "ea"
+      }
+    ]
+  },
+  {
+    "name": "epic-games",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/epic-games.txt",
+        "name": "epic-games"
+      }
+    ]
+  },
+  {
+    "name": "facebook",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/facebook.txt",
+        "name": "facebook"
       }
     ]
   },
@@ -160,12 +280,42 @@
     ]
   },
   {
+    "name": "github-copilot",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/github-copilot.txt",
+        "name": "github-copilot"
+      }
+    ]
+  },
+  {
+    "name": "google",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/google.txt",
+        "name": "google"
+      }
+    ]
+  },
+  {
     "name": "google_ai",
     "enabled": true,
     "subscriptions": [
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/google_ai.txt",
         "name": "google_ai"
+      }
+    ]
+  },
+  {
+    "name": "grok-xai",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/grok-xai.txt",
+        "name": "grok-xai"
       }
     ]
   },
@@ -190,22 +340,12 @@
     ]
   },
   {
-    "name": "instagram-1",
+    "name": "instagram",
     "enabled": true,
     "subscriptions": [
       {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/instagram-1.txt",
-        "name": "instagram-1"
-      }
-    ]
-  },
-  {
-    "name": "instagram-2",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/instagram-2.txt",
-        "name": "instagram-2"
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/instagram.txt",
+        "name": "instagram"
       }
     ]
   },
@@ -240,6 +380,16 @@
     ]
   },
   {
+    "name": "kino-pub",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/kino-pub.txt",
+        "name": "kino-pub"
+      }
+    ]
+  },
+  {
     "name": "linkedin",
     "enabled": true,
     "subscriptions": [
@@ -260,22 +410,22 @@
     ]
   },
   {
-    "name": "meta-1",
+    "name": "medium",
     "enabled": true,
     "subscriptions": [
       {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta-1.txt",
-        "name": "meta-1"
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/medium.txt",
+        "name": "medium"
       }
     ]
   },
   {
-    "name": "meta-2",
+    "name": "meta",
     "enabled": true,
     "subscriptions": [
       {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta-2.txt",
-        "name": "meta-2"
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta.txt",
+        "name": "meta"
       }
     ]
   },
@@ -310,6 +460,16 @@
     ]
   },
   {
+    "name": "nmclub.to",
+    "enabled": false,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/nmclub.to.txt",
+        "name": "nmclub.to"
+      }
+    ]
+  },
+  {
     "name": "nvidia",
     "enabled": true,
     "subscriptions": [
@@ -330,12 +490,62 @@
     ]
   },
   {
+    "name": "paypal",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/paypal.txt",
+        "name": "paypal"
+      }
+    ]
+  },
+  {
     "name": "peerobyte",
     "enabled": true,
     "subscriptions": [
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/peerobyte.txt",
         "name": "peerobyte"
+      }
+    ]
+  },
+  {
+    "name": "perplexity",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/perplexity.txt",
+        "name": "perplexity"
+      }
+    ]
+  },
+  {
+    "name": "pinterest",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/pinterest.txt",
+        "name": "pinterest"
+      }
+    ]
+  },
+  {
+    "name": "playstation",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/playstation.txt",
+        "name": "playstation"
+      }
+    ]
+  },
+  {
+    "name": "prime-video",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/prime-video.txt",
+        "name": "prime-video"
       }
     ]
   },
@@ -356,6 +566,26 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/realvnc.txt",
         "name": "realvnc"
+      }
+    ]
+  },
+  {
+    "name": "reddit",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/reddit.txt",
+        "name": "reddit"
+      }
+    ]
+  },
+  {
+    "name": "roblox",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/roblox.txt",
+        "name": "roblox"
       }
     ]
   },
@@ -390,6 +620,26 @@
     ]
   },
   {
+    "name": "signal",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/signal.txt",
+        "name": "signal"
+      }
+    ]
+  },
+  {
+    "name": "slack",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/slack.txt",
+        "name": "slack"
+      }
+    ]
+  },
+  {
     "name": "solyanka",
     "enabled": true,
     "subscriptions": [
@@ -416,6 +666,26 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/spotify.txt",
         "name": "spotify"
+      }
+    ]
+  },
+  {
+    "name": "stitch",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/stitch.txt",
+        "name": "stitch"
+      }
+    ]
+  },
+  {
+    "name": "streampay-filmiks",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/streampay-filmiks.txt",
+        "name": "streampay-filmiks"
       }
     ]
   },
@@ -460,6 +730,16 @@
     ]
   },
   {
+    "name": "tmdb",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/tmdb.txt",
+        "name": "tmdb"
+      }
+    ]
+  },
+  {
     "name": "torrents",
     "enabled": true,
     "subscriptions": [
@@ -500,6 +780,16 @@
     ]
   },
   {
+    "name": "vercel",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/vercel.txt",
+        "name": "vercel"
+      }
+    ]
+  },
+  {
     "name": "viber",
     "enabled": true,
     "subscriptions": [
@@ -536,6 +826,16 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/zfilm-hd.txt",
         "name": "zfilm-hd"
+      }
+    ]
+  },
+  {
+    "name": "zoom",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/zoom.txt",
+        "name": "zoom"
       }
     ]
   }

@@ -1,0 +1,10 @@
+# stitch
+# группа Keenetic: stitch_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+appspot.com
+google-analytics.com
+google.com
+googleusercontent.com
+withgoogle.com

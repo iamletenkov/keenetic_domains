@@ -1,0 +1,22 @@
+# blizzard
+# группа Keenetic: blizzard_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+battle.net
+blizzard.com
+blizzard.nefficient.co.kr
+blizzardgearstore.com
+blz-contentstack.com
+blznav.akamaized.net
+bnetshopus.akamaized.net
+diablo3.com
+diabloimmortal.com
+firesidegatherings.com
+heroesofthestorm.com
+playhearthstone.com
+playoverwatch.com
+playwarcraft3.com
+starcraft.com
+starcraft2.com
+worldofwarcraft.com

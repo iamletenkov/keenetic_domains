@@ -4,15 +4,18 @@
 # выгружено: 2026-09-22
 
 37.202.222.181
+bin.entware.net
 community-scripts.org
 corretto.aws
 dllme.com
+duetdisplay.com
 engineerworkshop.com
 gethomepage.dev
 getutm.app
-mac.getutm.app
+imazing.com
 modcase.com
 modcase.com.au
 portainer.io
+semaphoreui.com
 stackoverflow.com
 ultahost.com

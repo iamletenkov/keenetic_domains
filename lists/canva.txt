@@ -1,0 +1,11 @@
+# canva
+# группа Keenetic: canva_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+affinity-beta.s3.amazonaws.com
+affinity-lessons.s3.amazonaws.com
+affinity.api.serifservices.com
+affinity.studio
+canva.com
+canvastatus.com

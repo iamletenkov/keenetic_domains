@@ -1,0 +1,9 @@
+# meta
+# собран вручную вместо meta-2 (Threads и Meta AI)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+meta.ai
+meta.com
+threads.com
+threads.net

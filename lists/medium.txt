@@ -1,0 +1,6 @@
+# medium
+# группа Keenetic: medium_p1 (Upstroy)
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+medium.systems

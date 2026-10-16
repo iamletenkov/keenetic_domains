@@ -1,0 +1,15 @@
+# facebook
+# собран вручную вместо instagram-1, meta-1
+# маршрут: Wireguard0
+# выгружено: 2026-10-16
+
+facebook.com
+facebook.net
+facebookmail.com
+fb.com
+fb.gg
+fb.me
+fb.watch
+fbcdn.net
+fbsbx.com
+messenger.com
