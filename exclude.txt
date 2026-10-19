@@ -17,3 +17,8 @@ whatsapp-plus.info
 whatsapp-plus.me
 whatsapp-plus.net
 wl.co
+
+# Deutsche Telekom попал в список Telegram по совпадению «tele», к Telegram не относится.
+telekom.com
+telekom.de
+telesec.de
