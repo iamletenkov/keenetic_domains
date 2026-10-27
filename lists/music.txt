@@ -1,8 +1,6 @@
-# spotify
-# группа Keenetic: domain-list28
-# маршрут: Wireguard8
-# выгружено: 2026-09-22
-# обновлено 2026-10-27 по спискам владельца
+# music
+# маршрут: назначается в awg-manager
+# объединены 2026-10-28: spotify, soundcloud, tidal
 
 anchor.fm
 audio-ak-spotify-com.akamaized.net
@@ -14,6 +12,9 @@ heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 pscdn.co
 scdn.co
+sndcdn.com
+soundcloud.cloud
+soundcloud.com
 spoti.fi
 spotify-everywhere.com
 spotify.com
@@ -28,3 +29,6 @@ spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
 spotifyjobs.com
+tidal.com
+tidalhifi.com
+wimpmusic.com

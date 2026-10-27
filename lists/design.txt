@@ -1,0 +1,26 @@
+# design
+# маршрут: назначается в awg-manager
+# объединены 2026-10-28: figma, canva, miro, drawio, stitch, logo.com
+
+app.termly.io
+apps.canva-apps.com
+appspot.com
+canva.ai
+canva.com
+canva.link
+canva.site
+cdn.growthbook.io
+drawio.com
+figma.com
+google-analytics.com
+google.com
+googleusercontent.com
+logo.com
+mattermost.com
+miro.com
+mirostatic.com
+o1329669.ingest.us.sentry.io
+o13855.ingest.sentry.io
+static.cloudflareinsights.com
+thirdparty-public-apps-media.canva-apps.com
+withgoogle.com

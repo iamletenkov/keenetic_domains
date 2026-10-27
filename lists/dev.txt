@@ -1,8 +1,76 @@
-# DEV
-# группа Keenetic: domain-list46 (Upstroy)
-# маршрут: не назначен
-# выгружено: 2026-10-16
+# dev
+# маршрут: назначается в awg-manager
+# объединены 2026-10-28: dev, docker, debian, jetbrains, vercel, router, arr, teleport
 
+ai-sdk.dev
 aka.ms
+cdn.cookielaw.org
+cgr.dev
+codecov.io
+compose-spec.io
+datalore.io
+deb.debian.org
+debian.map.fastlydns.net
+docker-pinata-support.s3.amazonaws.com
+docker.com
+docker.io
+dockerstatic.com
+err.sh
+geolocation.onetrust.com
+goteleport.com
+grazie.ai
+hyper.is
+iframetest.com
+intellij.com
+intellij.net
+intellij.org
+jb.gg
+jetbrains.ai
+jetbrains.com
+jetbrains.net
+jetbrains.space
+jetbrains.team
+kasm.com
+kotlinlang.org
+lidarr.audio
+medium.com
+musicbrainz.org
+nextjs.org
+now.sh
+openwrt.org
+plexopedia.com
+prowlarr.com
 pypi.org
+radarr.video
+security.debian.org
+servarr.com
+skills.sh
+sonarr.tv
+static.fun
+teleport.dev
+theaudiodb.com
+themoviedb.org
+thetvdb.com
+title.sh
+tmdb.org
+turborepo.org
+vercel-dns.com
+vercel-status.com
+vercel.app
+vercel.blog
+vercel.com
+vercel.dev
+vercel.events
+vercel.live
+vercel.pub
+vercel.sh
+vercel.store
 vsassets.io
+youtrack.cloud
+zeit-world.co.uk
+zeit-world.com
+zeit-world.net
+zeit-world.org
+zeit.co
+zeit.sh
+zeitworld.com
