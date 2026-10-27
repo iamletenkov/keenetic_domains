@@ -420,16 +420,6 @@
     ]
   },
   {
-    "name": "meta",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/meta.txt",
-        "name": "meta"
-      }
-    ]
-  },
-  {
     "name": "miro",
     "enabled": true,
     "subscriptions": [
@@ -456,16 +446,6 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/netify.ai.txt",
         "name": "netify.ai"
-      }
-    ]
-  },
-  {
-    "name": "nmclub.to",
-    "enabled": false,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/nmclub.to.txt",
-        "name": "nmclub.to"
       }
     ]
   },
@@ -606,16 +586,6 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/rpcs3.net.txt",
         "name": "rpcs3.net"
-      }
-    ]
-  },
-  {
-    "name": "rutracker",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/rutracker.txt",
-        "name": "rutracker"
       }
     ]
   },

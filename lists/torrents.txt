@@ -2,20 +2,28 @@
 # группа Keenetic: domain-list23
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27: объединены torrents, nmclub.to и rutracker
 
-ajax.googleapis.com
 appstorrent.ru
 cdnbunny.org
 fast-torrent.club
 filmitorrent.net
+maintracker.org
 myroledance.com
+nnm-club.me
+nnmclub.to
+nnmstatic.win
 rutor.info
 rutor.is
 rutor.org
 rutracker.cc
+rutracker.cr
+rutracker.me
 rutracker.net
+rutracker.nl
 rutracker.org
 rutracker.ru
+rutrecker.net
 rutrk.org
 thepiratebay.org
 torrent.by
