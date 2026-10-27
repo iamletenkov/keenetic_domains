@@ -1,6 +1,0 @@
-# streampay-filmiks
-# группа Keenetic: streampay_filmiks_p1 (Upstroy)
-# маршрут: Wireguard0
-# выгружено: 2026-10-16
-
-streampay.org

@@ -600,14 +600,6 @@
     ]
   },
   {
-    "name": "filmix",
-    "enabled": true,
-    "manualDomains": [
-      "filmix.biz",
-      "filmix.fm"
-    ]
-  },
-  {
     "name": "gemini",
     "enabled": true,
     "manualDomains": [
@@ -616,11 +608,10 @@
       "aida.googleapis.com",
       "aisandbox-pa.googleapis.com",
       "aistudio.google.com",
-      "alkalicore-pa.clients6.google.com",
-      "alkalimakersuite-pa.clients6.google.com",
       "antigravity.google",
       "assistant-s3-pa.googleapis.com",
       "bard.google.com",
+      "clients6.google.com",
       "cloudcode-pa.googleapis.com",
       "codeassist.google",
       "daily-cloudcode-pa.googleapis.com",
@@ -641,8 +632,7 @@
       "notebooklm.google.com",
       "proactivebackend-pa.googleapis.com",
       "robinfrontend-pa.googleapis.com",
-      "stitch.withgoogle.com",
-      "webchannel-alkalimakersuite-pa.clients6.google.com"
+      "stitch.withgoogle.com"
     ]
   },
   {
@@ -651,32 +641,6 @@
     "manualDomains": [
       "googleplay.com",
       "xn--ngstr-lra8j.com"
-    ]
-  },
-  {
-    "name": "google_ai",
-    "enabled": true,
-    "manualDomains": [
-      "ai.google.dev",
-      "aisandbox-pa.googleapis.com",
-      "aistudio.google.com",
-      "bard.google.com",
-      "clients6.google.com",
-      "deepmind.com",
-      "deepmind.google",
-      "geller-pa.googleapis.com",
-      "gemini.google",
-      "gemini.google.com",
-      "generativeai.google",
-      "generativelanguage.googleapis.com",
-      "jules.google",
-      "jules.google.com",
-      "labs.google",
-      "makersuite.google.com",
-      "notebooklm.google",
-      "notebooklm.google.com",
-      "proactivebackend-pa.googleapis.com",
-      "stitch.withgoogle.com"
     ]
   },
   {
@@ -695,17 +659,6 @@
       "hf-mirror.com",
       "huggingface.co",
       "us.aws.cdn.hf.co"
-    ]
-  },
-  {
-    "name": "imdb",
-    "enabled": true,
-    "manualDomains": [
-      "boxofficemojo.com",
-      "imdb",
-      "imdb.com",
-      "imdb.to",
-      "media-imdb.com"
     ]
   },
   {
@@ -1406,24 +1359,6 @@
     ]
   },
   {
-    "name": "kino-pub",
-    "enabled": true,
-    "manualDomains": [
-      "ahc.ovh",
-      "cdn-service.space",
-      "cdn2cdn.com",
-      "cdn2site.com",
-      "gfw.ovh",
-      "kino.pub",
-      "kino.watch",
-      "kinopub.online",
-      "kpdl.link",
-      "mos-gorsud.co",
-      "pushbr.com",
-      "smarttvcdn.online"
-    ]
-  },
-  {
     "name": "linkedin",
     "enabled": true,
     "manualDomains": [
@@ -1470,10 +1405,41 @@
     ]
   },
   {
-    "name": "netflix",
+    "name": "movies",
     "enabled": true,
     "manualDomains": [
+      "ahc.ovh",
+      "aiv-cdn.net",
+      "amazonprimevideo.cn",
+      "amazonprimevideo.com.cn",
+      "amazonprimevideos.com",
+      "amazonvideo.cc",
+      "amazonvideo.com",
+      "boxofficemojo.com",
+      "cdn-service.space",
+      "cdn2cdn.com",
+      "cdn2site.com",
+      "cdn77.aj2517.bid",
       "fast.com",
+      "filmix.biz",
+      "filmix.fm",
+      "filmix.lat",
+      "filmix.me",
+      "filmix.my",
+      "gfw.ovh",
+      "images-eu.ssl-images-amazon.com",
+      "images-fe.ssl-images-amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "imdb",
+      "imdb.com",
+      "imdb.to",
+      "kino.pub",
+      "kino.watch",
+      "kinopub.online",
+      "kpdl.link",
+      "media-imdb.com",
+      "mos-gorsud.co",
+      "msh.amazon.co.uk",
       "netflix.ca",
       "netflix.com",
       "netflix.net",
@@ -1495,7 +1461,23 @@
       "nflximg.net",
       "nflxsearch.net",
       "nflxso.net",
-      "nflxvideo.net"
+      "nflxvideo.net",
+      "prime-video.com",
+      "primevideo.cc",
+      "primevideo.com",
+      "primevideo.info",
+      "primevideo.org",
+      "primevideo.tv",
+      "prod.service.minerva.devices.a2z.com",
+      "pushbr.com",
+      "smarttvcdn.online",
+      "srv224.com",
+      "ss.1posterhub.com",
+      "static.siege-amazon.com",
+      "streampay.org",
+      "themoviedb.org",
+      "tmdb.org",
+      "zfilms-hd.by"
     ]
   },
   {
@@ -1680,30 +1662,6 @@
       "playstation.net",
       "sony.com",
       "sonyentertainmentnetwork.com"
-    ]
-  },
-  {
-    "name": "prime-video",
-    "enabled": true,
-    "manualDomains": [
-      "aiv-cdn.net",
-      "amazonprimevideo.cn",
-      "amazonprimevideo.com.cn",
-      "amazonprimevideos.com",
-      "amazonvideo.cc",
-      "amazonvideo.com",
-      "images-eu.ssl-images-amazon.com",
-      "images-fe.ssl-images-amazon.com",
-      "images-na.ssl-images-amazon.com",
-      "msh.amazon.co.uk",
-      "prime-video.com",
-      "primevideo.cc",
-      "primevideo.com",
-      "primevideo.info",
-      "primevideo.org",
-      "primevideo.tv",
-      "prod.service.minerva.devices.a2z.com",
-      "static.siege-amazon.com"
     ]
   },
   {
@@ -1984,13 +1942,6 @@
     ]
   },
   {
-    "name": "streampay-filmiks",
-    "enabled": true,
-    "manualDomains": [
-      "streampay.org"
-    ]
-  },
-  {
     "name": "telegram",
     "enabled": true,
     "manualDomains": [
@@ -2092,14 +2043,6 @@
       "ttoversea.net",
       "ttoverseaus.net",
       "ttwstatic.com"
-    ]
-  },
-  {
-    "name": "tmdb",
-    "enabled": true,
-    "manualDomains": [
-      "themoviedb.org",
-      "tmdb.org"
     ]
   },
   {
@@ -2423,19 +2366,6 @@
       "youtubekids.com",
       "youtubemobilesupport.com",
       "ytimg.com"
-    ]
-  },
-  {
-    "name": "zfilm-hd",
-    "enabled": true,
-    "manualDomains": [
-      "cdn77.aj2517.bid",
-      "filmix.lat",
-      "filmix.me",
-      "filmix.my",
-      "srv224.com",
-      "ss.1posterhub.com",
-      "zfilms-hd.by"
     ]
   },
   {

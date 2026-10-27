@@ -1,8 +1,0 @@
-# tmdb
-# группа Keenetic: tmdb_p1 (Upstroy)
-# маршрут: Wireguard0
-# выгружено: 2026-10-16
-# обновлено 2026-10-27 по спискам владельца
-
-themoviedb.org
-tmdb.org
