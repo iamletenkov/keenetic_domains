@@ -628,21 +628,6 @@
     ]
   },
   {
-    "name": "github",
-    "enabled": true,
-    "manualDomains": [
-      "github.com",
-      "githubusercontent.com"
-    ]
-  },
-  {
-    "name": "github-copilot",
-    "enabled": true,
-    "manualDomains": [
-      "api.individual.githubcopilot.com"
-    ]
-  },
-  {
     "name": "google",
     "enabled": true,
     "manualDomains": [

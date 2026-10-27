@@ -1,7 +1,0 @@
-# github
-# группа Keenetic: domain-list59
-# маршрут: Wireguard8
-# выгружено: 2026-09-22
-
-github.com
-githubusercontent.com

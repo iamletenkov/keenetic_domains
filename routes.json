@@ -270,26 +270,6 @@
     ]
   },
   {
-    "name": "github",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/github.txt",
-        "name": "github"
-      }
-    ]
-  },
-  {
-    "name": "github-copilot",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/github-copilot.txt",
-        "name": "github-copilot"
-      }
-    ]
-  },
-  {
     "name": "google",
     "enabled": true,
     "subscriptions": [

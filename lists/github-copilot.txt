@@ -1,6 +1,0 @@
-# github-copilot
-# группа Keenetic: github_copilot_p1 (Upstroy)
-# маршрут: Wireguard0
-# выгружено: 2026-10-16
-
-api.individual.githubcopilot.com
