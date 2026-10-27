@@ -100,22 +100,22 @@
     ]
   },
   {
-    "name": "cloudflare",
-    "enabled": true,
-    "subscriptions": [
-      {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cloudflare.txt",
-        "name": "cloudflare"
-      }
-    ]
-  },
-  {
     "name": "cloudflare-ips",
     "enabled": true,
     "subscriptions": [
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cloudflare-ips.txt",
         "name": "cloudflare-ips"
+      }
+    ]
+  },
+  {
+    "name": "cloudflare",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/cloudflare.txt",
+        "name": "cloudflare"
       }
     ]
   },
@@ -146,6 +146,16 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/debian.txt",
         "name": "debian"
+      }
+    ]
+  },
+  {
+    "name": "deepseek",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/deepseek.txt",
+        "name": "deepseek"
       }
     ]
   },
@@ -256,6 +266,16 @@
       {
         "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/figma.txt",
         "name": "figma"
+      }
+    ]
+  },
+  {
+    "name": "filmix",
+    "enabled": true,
+    "subscriptions": [
+      {
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/filmix.txt",
+        "name": "filmix"
       }
     ]
   },
@@ -790,12 +810,12 @@
     ]
   },
   {
-    "name": "\"youtube CLEAN\"",
+    "name": "youtube",
     "enabled": true,
     "subscriptions": [
       {
-        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/youtube-clean.txt",
-        "name": "\"youtube CLEAN\""
+        "url": "https://raw.githubusercontent.com/iamletenkov/keenetic_domains/main/lists/youtube.txt",
+        "name": "youtube"
       }
     ]
   },

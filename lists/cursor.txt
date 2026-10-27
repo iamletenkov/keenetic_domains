@@ -2,8 +2,11 @@
 # группа Keenetic: cursor_p1 (Home)
 # маршрут: Wireguard0
 # выгружено: 2026-10-16
+# обновлено 2026-10-27 по спискам владельца
 
 cursor-cdn.com
+cursor.com
+cursor.sh
 cursorapi.com
 cursorvm.com
-spacex.ai
+download.todesktop.com

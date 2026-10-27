@@ -2,8 +2,14 @@
 # группа Keenetic: domain-list8
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
-cdn.cookielaw.org
 cdn.mxpnl.com
 geolocation.onetrust.com
-www.viber.com
+vb.me
+vbcdn.com
+vbcdn.net
+viber.co
+viber.com
+viber.me
+vibr.me

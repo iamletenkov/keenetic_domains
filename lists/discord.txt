@@ -2,14 +2,16 @@
 # группа Keenetic: domain-list0
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
-104.29.0.0/16
 airhorn.solutions
 airhornbot.com
 bigbeans.solutions
 dis.gd
+disboard.org
 discord-activities.com
 discord-attachments-uploads-prd.storage.googleapis.com
+discord.center
 discord.co
 discord.com
 discord.design
@@ -17,17 +19,36 @@ discord.dev
 discord.gg
 discord.gift
 discord.gifts
+discord.me
 discord.media
 discord.new
+discord.st
 discord.store
 discord.tools
 discordactivities.com
 discordapp.com
 discordapp.io
 discordapp.net
+discordbee.com
+discordbotlist.com
 discordcdn.com
+discordexpert.com
+discordhome.com
+discordhub.com
+discordinvites.net
+discordlist.me
+discordlist.space
 discordmerch.com
 discordpartygames.com
+discords.com
 discordsays.com
+discordservers.com
 discordstatus.com
+discordtop.com
+disforge.com
+dyno.gg
+findadiscord.com
+hammerandchisel.ssl.zendesk.com
+mee6.xyz
+top.gg
 watchanimeattheoffice.com

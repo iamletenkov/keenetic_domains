@@ -2,23 +2,27 @@
 # группа Keenetic: domain-list51
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
 anthropic.com
-api.cr-relay.com
-api.vector.co
-cdn.cr-relay.com
 cdn.prod.website-files.com
-cdn.vector.co
+clau.de
 claude.ai
+claude.app
 claude.com
+claude.new
+claude.site
+claudemcpclient.com
+claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
-cloudfront.net
-googleapis.com
-googletagmanager.com
-gstatic.com
 hubspotonwebflow.com
 intellimize.co
 intercom.io
-nyxos.shop
+modelcontextprotocol.com
+modelcontextprotocol.io
+modelcontextprotocol.net
+modelcontextprotocol.org
 segment.com
-sentry.io
+youtube.com

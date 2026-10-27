@@ -2,22 +2,37 @@
 # группа Keenetic: domain-list15
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
+ai.google
+ai.google.dev
+aida.googleapis.com
 aisandbox-pa.googleapis.com
 aistudio.google.com
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+antigravity.google
+assistant-s3-pa.googleapis.com
 bard.google.com
+cloudcode-pa.googleapis.com
+codeassist.google
+daily-cloudcode-pa.googleapis.com
 deepmind.com
 deepmind.google
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+gemini.googleusercontent.com
 generativeai.google
 generativelanguage.googleapis.com
 jules.google
 jules.google.com
 labs.google
 makersuite.google.com
+notebook.google
 notebooklm.google
 notebooklm.google.com
 proactivebackend-pa.googleapis.com
 robinfrontend-pa.googleapis.com
+stitch.withgoogle.com
+webchannel-alkalimakersuite-pa.clients6.google.com

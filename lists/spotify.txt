@@ -2,15 +2,26 @@
 # группа Keenetic: domain-list28
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
+anchor.fm
+audio-ak-spotify-com.akamaized.net
+audio-akp-quic-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
 byspotify.com
+cdn-spotify-experiments.conductrics.com
+heads-ak-spotify-com.akamaized.net
+heads4-ak-spotify-com.akamaized.net
 pscdn.co
 scdn.co
 spoti.fi
 spotify-everywhere.com
 spotify.com
+spotify.com.edgesuite.net
 spotify.design
 spotify.link
+spotify.map.fastly.net
+spotify.map.fastlylb.net
 spotifycdn.com
 spotifycdn.net
 spotifycharts.com

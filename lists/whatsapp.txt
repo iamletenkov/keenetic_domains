@@ -2,6 +2,7 @@
 # группа Keenetic: domain-list9
 # маршрут: Wireguard8
 # выгружено: 2026-09-22
+# обновлено 2026-10-27 по спискам владельца
 
 wa.me
 whatsapp.cc

@@ -2,10 +2,12 @@
 # группа Keenetic: canva_p1 (Upstroy)
 # маршрут: Wireguard0
 # выгружено: 2026-10-16
+# обновлено 2026-10-27 по спискам владельца
 
-affinity-beta.s3.amazonaws.com
-affinity-lessons.s3.amazonaws.com
-affinity.api.serifservices.com
-affinity.studio
+apps.canva-apps.com
+canva.ai
 canva.com
-canvastatus.com
+canva.link
+canva.site
+o13855.ingest.sentry.io
+thirdparty-public-apps-media.canva-apps.com
