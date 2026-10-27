@@ -4,7 +4,6 @@
 
 ai-sdk.dev
 aka.ms
-cdn.cookielaw.org
 cgr.dev
 codecov.io
 compose-spec.io
@@ -16,7 +15,6 @@ docker.com
 docker.io
 dockerstatic.com
 err.sh
-geolocation.onetrust.com
 goteleport.com
 grazie.ai
 hyper.is
