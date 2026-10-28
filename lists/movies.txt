@@ -70,5 +70,6 @@ ss.1posterhub.com
 static.siege-amazon.com
 streampay.org
 themoviedb.org
+tmdb-image-prod.b-cdn.net
 tmdb.org
 zfilms-hd.by

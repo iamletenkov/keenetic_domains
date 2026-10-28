@@ -14,6 +14,8 @@ docker-pinata-support.s3.amazonaws.com
 docker.com
 docker.io
 dockerstatic.com
+download.microsoft.com
+download.visualstudio.microsoft.com
 err.sh
 goteleport.com
 grazie.ai
@@ -31,6 +33,7 @@ jetbrains.team
 kasm.com
 kotlinlang.org
 lidarr.audio
+marketplace.visualstudio.com
 medium.com
 musicbrainz.org
 nextjs.org
@@ -52,6 +55,7 @@ thetvdb.com
 title.sh
 tmdb.org
 turborepo.org
+update.code.visualstudio.com
 vercel-dns.com
 vercel-status.com
 vercel.app
@@ -64,6 +68,8 @@ vercel.pub
 vercel.sh
 vercel.store
 vsassets.io
+vscode-cdn.net
+vscode.download.prss.microsoft.com
 youtrack.cloud
 zeit-world.co.uk
 zeit-world.com

@@ -2,6 +2,10 @@
 # маршрут: назначается в awg-manager
 # объединены 2026-10-28: figma, canva, miro, drawio, stitch, logo.com
 
+affinity-beta.s3.amazonaws.com
+affinity-lessons.s3.amazonaws.com
+affinity.api.serifservices.com
+affinity.studio
 app.termly.io
 apps.canva-apps.com
 appspot.com
@@ -9,6 +13,7 @@ canva.ai
 canva.com
 canva.link
 canva.site
+canvastatus.com
 cdn.growthbook.io
 drawio.com
 figma.com

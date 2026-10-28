@@ -361,6 +361,8 @@ hsfacebook.com
 httpfacebook.com
 httpsfacebook.com
 httpwwwfacebook.com
+ig.me
+igcdn.com
 instagram.com
 instagramstatic.com
 internet.org

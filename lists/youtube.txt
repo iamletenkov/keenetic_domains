@@ -9,6 +9,7 @@ googleusercontent.com
 googlevideo.com
 gstatic.com
 nhacmp3youtube.com
+returnyoutubedislikeapi.com
 withyoutube.com
 youtu.be
 youtube-nocookie.com
@@ -174,4 +175,5 @@ youtubego.id
 youtubego.in
 youtubekids.com
 youtubemobilesupport.com
+yt.be
 ytimg.com

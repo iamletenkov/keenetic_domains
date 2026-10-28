@@ -3,11 +3,15 @@
 # объединены 2026-10-28: chatgpt, claude.ai, grok-xai, perplexity, deepseek, kimi, copilot, cursor, hugging-face
 
 anthropic.com
+api.business.githubcopilot.com
+api.githubcopilot.com
+api.individual.githubcopilot.com
 az416426.vo.msecnd.net
 baidu.com
 browser-intake-datadoghq.com
 browser.events.data.microsoft.com
 c1.microsoft.com
+cdn.auth0.com
 cdn.openaimerge.com
 cdn.prod.website-files.com
 chat.com
@@ -24,6 +28,7 @@ claudemcpcontent.com
 claudepages.dev
 claudestudio.com
 claudeusercontent.com
+context7.com
 copilot.microsoft.com
 crixet.com
 cursor-cdn.com
@@ -46,6 +51,7 @@ huggingface.co
 intellimize.co
 intercom.io
 kimi.com
+m.stripe.network
 modelcontextprotocol.com
 modelcontextprotocol.io
 modelcontextprotocol.net
@@ -53,12 +59,15 @@ modelcontextprotocol.org
 moonshot.cn
 ns1.cloudflare.net
 oaistatic.com
+oaiusercontent.com
 openai.com
 openai.fund
 openai.org
 openaiapi-site.azureedge.net
 perplexity.ai
 perplexity.com
+ppl-ai-file-upload.s3.amazonaws.com
+pplx-res.cloudinary.com
 pplx.ai
 prodregistryv2.org
 production-openaicom-storage.azureedge.net
@@ -66,6 +75,7 @@ qq.com
 segment.com
 sora.com
 statsigapi.net
+stripe.com
 studiostaticassetsprod.azureedge.net
 us.aws.cdn.hf.co
 volccdn.com
